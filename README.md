@@ -19,7 +19,7 @@ The core of the project involves training and evaluating different relation extr
 
 Below are some visualized results from our training runs:
 
-![Result 1](assets/images/result_1.png)
+![Result 1](assets/images/result_1.svg)
 *(Note: Images extracted from `training_demo.ipynb` notebook)*
 
 ## Getting Started
