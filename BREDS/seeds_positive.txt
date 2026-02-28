@@ -1,0 +1,8 @@
+e1:ORG
+e2:LOC
+
+Lufthansa;Cologne
+Nokia;Espoo
+Google;Mountain View
+DoubleClick;New York
+SAP;Walldorf
